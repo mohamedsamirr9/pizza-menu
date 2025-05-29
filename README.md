@@ -40,12 +40,12 @@ fast-react-pizza-menu/
 ├── README.md
 └── package.json
 
+```
 ## 📦 Installation & Local Development
 
 To run the project locally::
-
 ```bash
 git clone https://github.com/yourusername/fast-react-pizza-menu.git
 cd fast-react-pizza-menu
 npm install
-npm start
+npm start 
