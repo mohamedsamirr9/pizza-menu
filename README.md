@@ -2,7 +2,7 @@
 
 A simple  pizza menu interface built with React.
 
-🔗 [Live Demo](https://fast-react-pizza-menu.netlify.app/)
+🔗 [Live Demo](https://fast-raect-pizza.netlify.app/)
 
 ---
 
